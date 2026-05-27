@@ -1,0 +1,3 @@
+line added with r+
+ 2nd line.
+some text here.
