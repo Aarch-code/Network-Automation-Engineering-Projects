@@ -1194,3 +1194,14 @@ nums = [1, 2, 3, 4, 5, 6, 7, 0, 1, 2]
 #     content = f.read().splitlines()
 #     my_str = '\n'.join(content)
 #     print(my_str)
+
+# x = input("enter your symbol:")
+# for i in range(1,6):
+#     spaces = ' ' * (5 - i)
+#     symbols = x * (2 * i - 1)
+#     print(spaces + symbols)
+
+# for i in range(4, 0, -1):
+#     spaces = ' ' * (5 - i)
+#     symbols = x * (2 * i - 1)
+#     print(spaces + symbols)
